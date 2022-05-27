@@ -53,3 +53,13 @@ ul li:hover
 {
     background: #333333;
 }
+.card-body
+{
+    color: #fff;
+    position: relative;
+    left: 20px;
+}
+.m-3 pt-3
+{
+    color: #fff;
+}
